@@ -1,0 +1,27 @@
+{
+  "name": "your-digital-library",
+  "version": "1.0.0",
+  "description": "A fullstack API project that allows users to store and view their \"digital library,\" their personal collection of literature.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ari-R-Morales/your-digital-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ari-R-Morales/your-digital-library/issues"
+  },
+  "homepage": "https://github.com/Ari-R-Morales/your-digital-library#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "firebase-admin": "^13.4.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.1.11"
+  }
+}
