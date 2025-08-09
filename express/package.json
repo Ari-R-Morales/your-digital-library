@@ -1,0 +1,25 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "express js setup",
+  "homepage": "https://github.com/Ari-R-Morales/your-digital-library#readme",
+  "bugs": {
+    "url": "https://github.com/Ari-R-Morales/your-digital-library/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ari-R-Morales/your-digital-library.git"
+  },
+  "license": "ISC",
+  "author": "Arianna",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "express": "^5.1.0",
+    "tailwindcss": "^4.1.11"
+  }
+}
